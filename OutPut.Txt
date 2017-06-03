@@ -1,0 +1,6 @@
+Before test scenario
+Tesr case1 execution
+After test method
+Tesr case2 execution
+After test method
+After test scenario
